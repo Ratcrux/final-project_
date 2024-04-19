@@ -16,7 +16,7 @@ Final project for CMPINF 0010
 <br> This project examines the areas of Pittsburgh and determines which neighborhood is best based on metrics such as the fequency of pedestrian and user-friendly infrastructure (sidewalks, bike lanes, safety, as well as the frequency of bike lanes and markings.
 
 
-<b>Description and Links to the datasets used:</b>
+<b>Description and Links to the datasets used:</b><br>
 <b>Dataset 1:</b> https://data.wprdc.org/dataset/allegheny-county-walk-scores
 <br>Description: "Walk Score measures the walkability of any address using a patented system developed by the Walk Score company. For each 2010 Census Tract centroid, Walk Score analyzed walking routes to nearby amenities."
 
